@@ -1,3 +1,0 @@
-<div>
-list view
-</div>

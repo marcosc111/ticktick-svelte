@@ -1,3 +1,0 @@
-<div>
-right view
-</div>
